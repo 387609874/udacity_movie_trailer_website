@@ -8,7 +8,8 @@ MOVIE_DATA_FILE = "movies.json"
 
 def json_to_dic():
     """
-    This function will read json file which stores movie data and transfer it to a dictionary
+    This function will read json file which stores movie data and transfer it
+    to a dictionary
 
     Args:
         none
